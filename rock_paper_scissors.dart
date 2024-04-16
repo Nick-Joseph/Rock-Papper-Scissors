@@ -37,7 +37,7 @@ void main() {
     } else if (input == 'q') {
       break;
     } else {
-      print('Invalid input');
+      print('Invalid input!');
     }
   }
 }
